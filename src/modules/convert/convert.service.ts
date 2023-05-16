@@ -75,7 +75,3 @@ export class ConvertService {
   }
 }
 
-
-//postgres://sensei:lizg0vxOKSKAkO1C4J8eOxIBTy2Y17Yc@dpg-cgecd0ceoognlfnnmkeg-a/dojo_na_nuvem
-//postgres://sensei:lizg0vxOKSKAkO1C4J8eOxIBTy2Y17Yc@dpg-cgecd0ceoognlfnnmkeg-a.oregon-postgres.render.com/dojo_na_nuvem
-//postgres://postgres:postgrespw@localhost:32770/foods_count
